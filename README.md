@@ -53,7 +53,7 @@ The app combines a **professional yet playful design** with an Indian context fo
 
 ## 🖼️ Preview 📷
 
-(<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/ffc48986-8503-451c-a27e-a1338686293c" />) 
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/ffc48986-8503-451c-a27e-a1338686293c" />
 
 > Visuals highlight AI prompt comparisons, hero section, top LLM models, and prompt samples.
 
